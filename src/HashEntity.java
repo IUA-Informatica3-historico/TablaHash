@@ -1,5 +1,4 @@
 public class HashEntity<K, T> {
-
     private K key;
     private T dato;
 
